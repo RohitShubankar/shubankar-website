@@ -1,12 +1,13 @@
 ---
-title: 'An example conference paper'
+title: 'IOT Device For Disabled People'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - B.Shubankar
+  - Mallika Chowdhary 
+  - Priyaadharshini M
 
 # Author notes (optional)
 author_notes:
@@ -17,7 +18,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-05-01'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +27,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: Elsevier Procedia Computer Science Journal
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
+* Designed,Developed and Implemented an IoT based device to provide the physically challenged assistance in communication with the sur‑
+  rounding by recognizing hand signs/gestures and characters from hoarding boards/sign boards.
+* The device also has an live location tracker which provides the geographical coordinates of the wearer.
+* EAST text detector is implemented to analyze and recognize characters from the captured image of the sign boards.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Implemented an IoT based device to provide physically challenged people assistance in communication with the surrounding by recognizing hand gestures and characters from hoarding/sign boards. The device also has a live location tracker to provide information about the whereabouts of the person to their caretakers.
 
 tags: []
 
