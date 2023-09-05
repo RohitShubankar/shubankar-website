@@ -31,9 +31,7 @@ publication: Elsevier Procedia Computer Science Journal
 publication_short: In *ICW*
 
 abstract: Designed,Developed and Implemented an IoT based device to provide the physically challenged assistance in communication with the sur‑
-rounding by recognizing hand signs/gestures and characters from hoarding boards/sign boards.
-* The device also has an live location tracker which provides the geographical coordinates of the wearer.
-* EAST text detector is implemented to analyze and recognize characters from the captured image of the sign boards.
+rounding by recognizing hand signs/gestures and characters from hoarding boards/sign boards.The device also has an live location tracker which provides the geographical coordinates of the wearer.EAST text detector is implemented to analyze and recognize characters from the captured image of the sign boards.
 
 # Summary. An optional shortened abstract.
 summary: Implemented an IoT based device to provide physically challenged people assistance in communication with the surrounding by recognizing hand gestures and characters from hoarding/sign boards. The device also has a live location tracker to provide information about the whereabouts of the person to their caretakers.
