@@ -28,9 +28,9 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Elsevier Procedia Computer Science Journal
-publication_short: In *ICW*
+#publication_short: In *ICW*
 
-abstract: Designed,Developed and Implemented an IoT based device to provide the physically challenged assistance in communication with the surrounding by recognizing hand signs/gestures and characters from hoarding boards/sign boards. The device also has an live location tracker which provides the geographical coordinates of the wearer.EAST text detector is implemented to analyze and recognize characters from the captured image of the sign boards.
+abstract: Designed,Developed and Implemented an IoT based device to provide the physically challenged assistance in communication with the surrounding by recognizing hand signs/gestures and characters from hoarding boards/sign boards. The device also has an live location tracker which provides the geographical coordinates of the wearer. EAST text detector is implemented to analyze and recognize characters from the captured image of the sign boards.
 
 # Summary. An optional shortened abstract.
 summary: Implemented an IoT based device to provide physically challenged people assistance in communication with the surrounding by recognizing hand gestures and characters from hoarding/sign boards. The device also has a live location tracker to provide information about the whereabouts of the person to their caretakers.
@@ -42,42 +42,42 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: Paper Link
+   url: https://www.sciencedirect.com/science/article/pii/S1877050920301009?via%3Dihub
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+# url_pdf: ''
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -85,4 +85,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
