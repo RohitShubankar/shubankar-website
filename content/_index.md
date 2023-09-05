@@ -164,49 +164,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Other Involvements
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -230,6 +191,46 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: Certificat­ions
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Certificat­ions'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/NGZBM5AWV32R
+          date_end: ''
+          date_start: '2019-05-01'
+          description: 'The course focuses on designing and building secure systems that respects human performance and their goals within a system.'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Usable Security
+          #url: ''
+        - certificate_url: https://www.slideshare.net/secret/8ldc73acU4jSQd
+          date_end: ''
+          date_start: '2017-12-01'
+          description: 'Gained knowledge on the various techniques and tools used by the Black Hat hackers to enter the system steal information and how we can prevent these attacks and secure our system.'
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: Learn Ethical Hacking From Scratch
+          #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.slideshare.net/secret/5WKCQ2iUyYNrBr
+          date_end: 
+          date_start: '2017-01-01'
+          description: 'A 12-week online course conducted by NPTEL on Internetwork Security which deals with the study of cryptography and network security.'
+          organization: NPTEL
+          organization_url: https://nptel.ac.in/
+          title: 'Internetwork Security'
+          #url: ''
+    design:
+      columns: '2'
+ 
   
   # - block: markdown
   #   content:
