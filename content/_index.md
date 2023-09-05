@@ -78,9 +78,9 @@ sections:
           date_end: ''
           description: |2-
 
-            * Extreme Cloud Orchestration (XCO) : 
+            - Extreme Cloud Orchestration (XCO) : 
                 
-            * Extreme Network Simulation (ENS) :
+            - Extreme Network Simulation (ENS) :
             
               * Designed and Developed ENS which is an efficient, reliable and cost effective simulation framework that is deployable in the lab for
                 testing as it replicates the behavior of a real device.
