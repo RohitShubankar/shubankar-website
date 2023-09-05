@@ -22,7 +22,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 # interests:
@@ -74,5 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Computer Science graduate from VIT University. I have an immense interest in the field of cybersecurity. Most of the knowledge I obtained in this field is powered by the internet. We’re living in a digital world where data has become more valuable than ever. Data in the 21st century is like Oil in the 18th century, an immense valuable asset. With the rapid advancement in technology, cyber-crimes have also increased and hence protection and privacy of data has become an important issue. I believe that with a deeper understanding in the field of security and cryptography, we can provide solutions for this problem.
+
+Apart from my professional passion, I’m a people’s person. I enjoy working in teams and am good at managing teams, especially those with heterogeneous members. I believe that a combination of technical expertise and people skills projected in the right direction can always guarantee success. I am a self-driven person with established goals and plans to achieve them. I have always been success oriented, and I will always work towards achieving more.
 {style="text-align: justify;"}
