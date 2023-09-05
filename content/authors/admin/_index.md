@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shubankar Balakumar
+title: B.Shubankar
 
 # Full name (for SEO)
 first_name: Shubankar 
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: rohit.shubankar@gmail.com
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
