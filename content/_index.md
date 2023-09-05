@@ -118,11 +118,12 @@ sections:
           date_start: '2018-05-01'
           date_end: '2018-06-01'
           description: |2-
-            • Designed Video Verification Module which verifies if the video data captured by the drone meets the client requirements in terms of coverage
+          
+            * Designed Video Verification Module which verifies if the video data captured by the drone meets the client requirements in terms of coverage
               and Area of Interest (AOI).
-            • Implemented the core logic and wrote scripts that involved weeding out faulty input data.
-            • Increased team efficiency by adding clear and extensive documentation and comments.
-            • Programming Language‑ Python.
+            * Implemented the core logic and wrote scripts that involved weeding out faulty input data.
+            * Increased team efficiency by adding clear and extensive documentation and comments.
+            * Programming Language‑ Python.
 
     design:
       columns: '2'
