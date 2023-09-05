@@ -30,7 +30,7 @@ publication_types: ['1']
 publication: Elsevier Procedia Computer Science Journal
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Designed,Developed and Implemented an IoT based device to provide the physically challenged assistance in communication with the surrounding by recognizing hand signs/gestures and characters from hoarding boards/sign boards. The device also has an live location tracker which provides the geographical coordinates of the wearer.EAST text detector is implemented to analyze and recognize characters from the captured image of the sign boards.
 
 # Summary. An optional shortened abstract.
 summary: Implemented an IoT based device to provide physically challenged people assistance in communication with the surrounding by recognizing hand gestures and characters from hoarding/sign boards. The device also has a live location tracker to provide information about the whereabouts of the person to their caretakers.
