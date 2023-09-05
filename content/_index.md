@@ -82,6 +82,7 @@ sections:
                 
             * Extreme Network Simulation (ENS)
 
+
               * Designed and Developed ENS which is an efficient, reliable and cost effective simulation framework that is deployable in the lab for
                 testing as it replicates the behavior of a real device.
               * Developed as a platform‑agnostic application that supports a combination of both simulated and real network devices. Customers can
@@ -93,6 +94,7 @@ sections:
               * Technologies Used ‑ Golang, Docker, Kubernetes.
 
             * Extreme Unifed Automation Solution (EUAS)
+
 
               * Worked on EUAS which is a web‑based framework for online job scheduling, test management system that facilitates software quality
                 assurance, test coverage dashboard, reporting and data analytics.
