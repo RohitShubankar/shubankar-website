@@ -76,7 +76,7 @@ sections:
           location: Bangalore, India 
           date_start: '2021-01-04'
           date_end: ''
-          description: 
+          description: |2-
 
             * Extreme Cloud Orchestration (XCO) 
                 
