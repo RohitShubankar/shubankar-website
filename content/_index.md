@@ -79,7 +79,6 @@ sections:
           description: |2-
 
               * Extreme Network Simulation (ENS)
-              
                 * Designed and Developed ENS which is an efficient, reliable and cost effective simulation framework that is deployable in the lab for
                 testing as it replicates the behavior of a real device.
                 * Developed as a platform‑agnostic application that supports a combination of both simulated and real network devices. Customers can
