@@ -167,7 +167,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Other Involvements
+      title: 'Other Involvements'
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -191,7 +191,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: Certificat­ions
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certificat­ions'
