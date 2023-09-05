@@ -35,7 +35,7 @@ education:
   courses:
     - course: B.Tech in Computer Science & Engineering
       institution: Vellore Institute of Technology
-      year: 2019
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
