@@ -71,7 +71,7 @@ sections:
       items:
         - title: Associate Software Systems Engineer
           company: Extreme Networks
-          company_url: ''
+          #company_url: ''
           #company_logo: org-gc
           location: Bangalore, India 
           date_start: '2021-01-04'
