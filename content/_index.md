@@ -101,14 +101,29 @@ sections:
               * Performed unit testing and functional testing using Pytest.
               * Technologies Used ‑ Python, Django.
 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+        - title: Associate Consultant
+          company: Atos Syntel
+          #company_url: ''
+          #company_logo: org-x
+          location: Chennai, India
+          date_start: '2019-12-30'
+          date_end: '2020-12-30'
           description: Taught electronic engineering and researched semiconductor physics.
+
+        - title: Software Developer Intern
+          company: Skylark Drones   
+          #company_url: ''
+          #company_logo: org-x
+          location: Bangalore, India
+          date_start: '2018-05-01'
+          date_end: '2018-06-01'
+          description: |2-
+            • Designed Video Verification Module which verifies if the video data captured by the drone meets the client requirements in terms of coverage
+              and Area of Interest (AOI).
+            • Implemented the core logic and wrote scripts that involved weeding out faulty input data.
+            • Increased team efficiency by adding clear and extensive documentation and comments.
+            • Programming Language‑ Python.
+
     design:
       columns: '2'
   - block: accomplishments
