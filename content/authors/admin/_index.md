@@ -1,6 +1,6 @@
 ---
 # Display name
-title: B.Shubankar
+title: Shubankar Balakumar
 
 # Full name (for SEO)
 first_name: Shubankar 
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Software Systems Engineer 
+role: Associate Software Systems Engineer at Extreme Networks
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Extreme Networks
+  - name: 
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,21 +51,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #   header: true
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/RohitShubankar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shubankar-b-05a4ab124/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
