@@ -78,9 +78,9 @@ sections:
           date_end: ''
           description: |2-
 
-            * Extreme Cloud Orchestration (XCO)
+            - Extreme Cloud Orchestration (XCO)
                 
-            * Extreme Network Simulation (ENS)
+            - Extreme Network Simulation (ENS)
               * Designed and Developed ENS which is an efficient, reliable and cost effective simulation framework that is deployable in the lab for
                 testing as it replicates the behavior of a real device.
               * Developed as a platform‑agnostic application that supports a combination of both simulated and real network devices. Customers can
@@ -91,7 +91,7 @@ sections:
               * Implemented Robot scripts for feature testing and unit testing for API’s designed in ENS
               * Technologies Used ‑ Golang, Docker, Kubernetes.
 
-            * Extreme Unifed Automation Solution (EUAS)
+            - Extreme Unifed Automation Solution (EUAS)
               * Worked on EUAS which is a web‑based framework for online job scheduling, test management system that facilitates software quality
                 assurance, test coverage dashboard, reporting and data analytics.
               * The framework provides support for testcases, test suites, test plans, test projects and user management as well as various reports and
