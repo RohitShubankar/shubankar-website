@@ -82,8 +82,8 @@ sections:
                 
             * Extreme Network Simulation (ENS)
 
-              * Designed and Developed ENS which is an efficient, reliable and cost effective simulation framework that is deployable in the lab for
-                  testing as it replicates the behavior of a real device.
+              """Designed and Developed ENS which is an efficient, reliable and cost effective simulation framework that is deployable in the lab for
+                  testing as it replicates the behavior of a real device."""
               * Developed as a platform‑agnostic application that supports a combination of both simulated and real network devices. Customers can
                   deploy 1000+ simulated devices in a VM and can manage it through ENS.
               * Designed and Developed CLI for ENS to provide users with command line options to perform operations such as add, modify,show and
