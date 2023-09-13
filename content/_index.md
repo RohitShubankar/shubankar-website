@@ -38,7 +38,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: features
@@ -58,6 +58,7 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
