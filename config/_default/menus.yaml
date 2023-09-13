@@ -16,12 +16,12 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Other
-    url: '#posts'
-    weight: 50
   - name: Certifications
     url: '#certifications'
-    weight: 60
+    weight: 50
+  # - name: Other
+  #   url: '#posts'
+  #   weight: 60
   # - name: Talks
   #   url: '#talks'
   #   weight: 70
