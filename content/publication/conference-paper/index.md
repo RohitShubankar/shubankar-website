@@ -35,7 +35,7 @@ abstract: Designed,Developed and Implemented an IoT based device to provide the 
 # Summary. An optional shortened abstract.
 summary: Implemented an IoT based device to provide physically challenged people assistance in communication with the surrounding by recognizing hand gestures and characters from hoarding/sign boards. The device also has a live location tracker to provide information about the whereabouts of the person to their caretakers.
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
 featured: true
